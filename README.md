@@ -10,6 +10,8 @@ In this course, I have learned the fundamentals of web design and development us
 - Animations
 - Accessibility and much more...
 
+[Webflow 101 - Certificate.pdf](https://github.com/alexmeurant/webflow101_project/files/11198973/Webflow.101.-.Certificate.pdf)
+
 [LIVE PREVIEW](https://a-calendar-for-space-travel.webflow.io/)
 
 ![home page](https://user-images.githubusercontent.com/18213190/231114046-fa78d6ee-5c38-43a4-b9cf-bcd1e2a9625b.png)
